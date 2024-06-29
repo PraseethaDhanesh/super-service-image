@@ -15,7 +15,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:PraseethaDhanesh/super-service-image.git
    cd super-service
 
 2. Build the Docker Image:
