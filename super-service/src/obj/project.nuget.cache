@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekhVFZj1Ti2FjtF0O1hyZk9bcTPNFF2g2kJhl5yG3PF3/vw52mXH65+NelROhndmJ6gkL7Y5INsJRsWZWN0sTA==",
+  "success": true,
+  "projectFilePath": "/wwwroot/devopstask/super-service/src/SuperService.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/6.0.30/microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.30/microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.30/microsoft.netcore.app.host.linux-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
